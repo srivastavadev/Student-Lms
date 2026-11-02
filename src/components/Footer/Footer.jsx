@@ -7,7 +7,7 @@ function Footer() {
     <footer className="footer">
       <div className="footer-grid">
         <div>
-          <h3>EduNova</h3>
+          <h3>SmartClass</h3>
           <p>A modern learning management platform built for students, instructors and academic projects.</p>
         </div>
         <div>
@@ -24,7 +24,7 @@ function Footer() {
         </div>
       </div>
       <div className="footer-bottom">
-        <span>© 2026 EduNova LMS</span>
+        <span>© 2026 SmartClass LMS</span>
         <span>Built with React</span>
       </div>
     </footer>
